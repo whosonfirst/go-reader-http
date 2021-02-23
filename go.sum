@@ -103,6 +103,8 @@ github.com/whosonfirst/go-reader v0.1.1 h1:0fXoYQR/Yyh3PKk+9Huwoc6dCAt8l1tjg2dES
 github.com/whosonfirst/go-reader v0.1.1/go.mod h1:w0AeU+Ojyfmxb7r+rcSYyxpCxrhxlHv+D9EgEwQsqcM=
 github.com/whosonfirst/go-reader v0.2.0 h1:Et8rvkh+86msAo4Db4h88m1t2QDSMNr3rLy6RqJzeJc=
 github.com/whosonfirst/go-reader v0.2.0/go.mod h1:qUhz3OWefOUX/G1nzCEUzJskDjkF+l9oKPOM3K2fAJI=
+github.com/whosonfirst/go-reader v0.4.1 h1:gN73LR/gdtWtuCikOc84rtuMIbIu6fi7RPRZgssKL9I=
+github.com/whosonfirst/go-reader v0.4.1/go.mod h1:ffg8ww1158rNNqStFx64EGmDL5m5WZPsoMqR6wohOWE=
 github.com/whosonfirst/go-whosonfirst-reader v0.0.0-20191122203133-047f20452865/go.mod h1:xYzBn6llLD/uS6Zhh0H4LAqddEJHXdQSUIxywTnhpOU=
 github.com/whosonfirst/go-whosonfirst-sources v0.1.0/go.mod h1:EUMHyGzUmqPPxlMmOp+28BFeoBdxxE0HCKRd67lkqGM=
 github.com/whosonfirst/go-whosonfirst-uri v0.1.0/go.mod h1:8eaDVcc4v+HHHEDaRbApdmhPwM4/JQllw2PktvZcPVs=
