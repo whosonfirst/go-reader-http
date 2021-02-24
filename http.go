@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	wof_reader "github.com/whosonfirst/go-reader"
-	"github.com/whosonfirst/go-reader/ioutil"
+	"github.com/whosonfirst/go-ioutil"
 	"io"
 	_ "log"
 	"net/http"
